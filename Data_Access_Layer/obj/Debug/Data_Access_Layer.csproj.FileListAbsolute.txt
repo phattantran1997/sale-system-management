@@ -1,0 +1,33 @@
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\GHE\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Backup\Data_Access_Layer\bin\Debug\Model.dll
+C:\GHE\Backup\Data_Access_Layer\bin\Debug\Model.pdb
+C:\GHE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\GHE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\bin\Debug\Model.dll
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\bin\Debug\Model.pdb
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\GHE\BACKUP 3\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\GHE\Backup\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojResolveAssemblyReference.cache

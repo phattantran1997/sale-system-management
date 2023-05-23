@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "UI\View.csproj", "{77C7078E-2E8A-442A-95D1-BFF56B74B354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variable", "Model\Variable.csproj", "{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Business_Layer\Controller.csproj", "{8A3BD973-748B-444A-B595-B6AB9AACDDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Data_Access_Layer\Model.csproj", "{CAAF89E3-5C51-419F-85A1-B29E00557AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7078E-2E8A-442A-95D1-BFF56B74B354}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDBB42C-8EE7-49B2-A6C3-E48A5470FD39}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3BD973-748B-444A-B595-B6AB9AACDDB1}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF89E3-5C51-419F-85A1-B29E00557AAA}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

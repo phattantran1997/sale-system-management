@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77C7078E-2E8A-442A-95D1-BFF56B74B354}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Data_Access_Layer">
+      <HintPath>..\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang.Designer.cs">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BH.cs">
+      <DependentUpon>BH.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoanhThu.Designer.cs">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HangHoa.Designer.cs">
+      <DependentUpon>HangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoatDongBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoatDongBanHang.Designer.cs">
+      <DependentUpon>HoatDongBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaCungCap.Designer.cs">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang.Designer.cs">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTin.Designer.cs">
+      <DependentUpon>ThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trangchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trangchinh.Designer.cs">
+      <DependentUpon>Trangchinh.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BanHang.resx">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoanhThu.resx">
+      <DependentUpon>DoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HangHoa.resx">
+      <DependentUpon>HangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoatDongBanHang.resx">
+      <DependentUpon>HoatDongBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaCungCap.resx">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang.resx">
+      <DependentUpon>NhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="HDBH.rdlc" />
+    <EmbeddedResource Include="HDNH.rdlc" />
+    <EmbeddedResource Include="ThongTin.resx">
+      <DependentUpon>ThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trangchinh.resx">
+      <DependentUpon>Trangchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BH.xsc">
+      <DependentUpon>BH.xsd</DependentUpon>
+    </None>
+    <None Include="BH.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BH.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="BH.xss">
+      <DependentUpon>BH.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business_Layer\Business_Layer.csproj">
+      <Project>{8a3bd973-748b-444a-b595-b6ab9aacddb1}</Project>
+      <Name>Business_Layer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{9bdbb42c-8ee7-49b2-a6c3-e48a5470fd39}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supermarket_background_by_vigorousjammer-d4oivv5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supermarket_background_by_vigorousjammer-d4oivv51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-supermarket-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muahang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plain Blak Gray.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fasticon-Shop-Cart-Shop-cart-add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop-cart-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop-cart-add-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-10918245.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey-background-2-free-hd-background-and-wallpaper.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1598352.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-9853743.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-73171719.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-731717191.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-98537431.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-2977885.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-29778851.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-199112098.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1437481933_dollar__.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1437482686_sale-pointer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1437482150_corbeille box sale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pvd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_w %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_db_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_package_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_action_reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-22053149.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-13829780.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-22053489.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-71431562.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-as-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-ltr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1436969100_shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1438980118_search-icon-tm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-87711597.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-29778852.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-289623476.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-289623578.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439854729_DeleteRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439855724_1-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439855765_1-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-87791472.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-117324098.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-5747582.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439855765_1-041.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-1173240981.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-877914721.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-204993751.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-289184551.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-40634744.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-6678794.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-10789656.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-11190812.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-111908121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-10784956.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439989152_vector_66_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1439989214_vector_66_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

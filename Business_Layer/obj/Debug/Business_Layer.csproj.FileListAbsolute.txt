@@ -1,0 +1,52 @@
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\GHE\Backup\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\GHE\Backup\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\GHE\Backup\Business_Layer\bin\Debug\Model.dll
+C:\GHE\Backup\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Backup\Business_Layer\bin\Debug\Model.pdb
+C:\GHE\Backup\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\Backup\Business_Layer\obj\Debug\Business_Layer.dll
+C:\GHE\Backup\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\GHE\BACKUP 3\Backup\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\BACKUP 3\Backup\Business_Layer\obj\Debug\Business_Layer.dll
+C:\GHE\BACKUP 3\Backup\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\GHE\Phan mem\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\GHE\Phan mem\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\GHE\Phan mem\Business_Layer\bin\Debug\Model.dll
+C:\GHE\Phan mem\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Phan mem\Business_Layer\bin\Debug\Model.pdb
+C:\GHE\Phan mem\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\Phan mem\Business_Layer\obj\Debug\Business_Layer.dll
+C:\GHE\Phan mem\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\Business_Layer\obj\Debug\Business_Layer.pdb

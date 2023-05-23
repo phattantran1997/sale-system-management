@@ -1,0 +1,182 @@
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\UI.exe.config
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\UI.exe
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\UI.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.exe
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.Trangchinh.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.DangNhap.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.BanHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.NhapHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.ThongTin.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.DoanhThu.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.HangHoa.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.KhachHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.NhaCungCap.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\UI\obj\Debug\UI.NhanVien.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\UI.exe.config
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.exe
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\UI.exe
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\UI.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.BanHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.DangNhap.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.DoanhThu.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.HangHoa.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.KhachHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.NhaCungCap.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.NhanVien.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.NhapHang.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.ThongTin.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\UI.Trangchinh.resources
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\UI\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Backup\UI\bin\Debug\UI.exe.config
+C:\GHE\Backup\UI\obj\Debug\UI.exe
+C:\GHE\Backup\UI\obj\Debug\UI.pdb
+C:\GHE\Backup\UI\bin\Debug\UI.exe
+C:\GHE\Backup\UI\bin\Debug\UI.pdb
+C:\GHE\Backup\UI\bin\Debug\Business_Layer.dll
+C:\GHE\Backup\UI\bin\Debug\Data_Access_Layer.dll
+C:\GHE\Backup\UI\bin\Debug\Model.dll
+C:\GHE\Backup\UI\bin\Debug\Business_Layer.pdb
+C:\GHE\Backup\UI\bin\Debug\Model.pdb
+C:\GHE\Backup\UI\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Backup\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\Backup\UI\obj\Debug\UI.BanHang.resources
+C:\GHE\Backup\UI\obj\Debug\UI.DangNhap.resources
+C:\GHE\Backup\UI\obj\Debug\UI.DoanhThu.resources
+C:\GHE\Backup\UI\obj\Debug\UI.HangHoa.resources
+C:\GHE\Backup\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\GHE\Backup\UI\obj\Debug\UI.KhachHang.resources
+C:\GHE\Backup\UI\obj\Debug\UI.NhaCungCap.resources
+C:\GHE\Backup\UI\obj\Debug\UI.NhanVien.resources
+C:\GHE\Backup\UI\obj\Debug\UI.NhapHang.resources
+C:\GHE\Backup\UI\obj\Debug\UI.Properties.Resources.resources
+C:\GHE\Backup\UI\obj\Debug\UI.ThongTin.resources
+C:\GHE\Backup\UI\obj\Debug\UI.Trangchinh.resources
+C:\GHE\Backup\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\GHE\Backup\UI\obj\Debug\RdlCompile.cache
+C:\GHE\Backup\UI\obj\Debug\RdlCompile.compiled
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\UI.exe.config
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.exe
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.pdb
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\UI.exe
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\UI.pdb
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\Business_Layer.dll
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\Model.dll
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\Business_Layer.pdb
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\Model.pdb
+C:\GHE\BACKUP 3\Backup\UI\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.BanHang.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.DangNhap.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.DoanhThu.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.HangHoa.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.KhachHang.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.NhaCungCap.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.NhanVien.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.NhapHang.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.Properties.Resources.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.ThongTin.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\UI.Trangchinh.resources
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\RdlCompile.cache
+C:\GHE\BACKUP 3\Backup\UI\obj\Debug\RdlCompile.compiled
+C:\GHE\Phan mem\UI\bin\Debug\UI.exe.config
+C:\GHE\Phan mem\UI\obj\Debug\UI.exe
+C:\GHE\Phan mem\UI\obj\Debug\UI.pdb
+C:\GHE\Phan mem\UI\bin\Debug\UI.exe
+C:\GHE\Phan mem\UI\bin\Debug\UI.pdb
+C:\GHE\Phan mem\UI\bin\Debug\Business_Layer.dll
+C:\GHE\Phan mem\UI\bin\Debug\Data_Access_Layer.dll
+C:\GHE\Phan mem\UI\bin\Debug\Model.dll
+C:\GHE\Phan mem\UI\bin\Debug\Business_Layer.pdb
+C:\GHE\Phan mem\UI\bin\Debug\Model.pdb
+C:\GHE\Phan mem\UI\bin\Debug\Data_Access_Layer.pdb
+C:\GHE\Phan mem\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\GHE\Phan mem\UI\obj\Debug\UI.BanHang.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.DangNhap.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.DoanhThu.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.HangHoa.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.KhachHang.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.NhaCungCap.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.NhanVien.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.NhapHang.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.Properties.Resources.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.ThongTin.resources
+C:\GHE\Phan mem\UI\obj\Debug\UI.Trangchinh.resources
+C:\GHE\Phan mem\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\GHE\Phan mem\UI\obj\Debug\RdlCompile.cache
+C:\GHE\Phan mem\UI\obj\Debug\RdlCompile.compiled
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.exe.config
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.exe
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.exe
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.BanHang.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.DangNhap.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.DoanhThu.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.HangHoa.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.KhachHang.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhaCungCap.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhanVien.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhapHang.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.ThongTin.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.Trangchinh.resources
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\RdlCompile.cache
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\UI\obj\Debug\RdlCompile.compiled
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.exe.config
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.exe
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.exe
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\UI.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Business_Layer.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Data_Access_Layer.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Business_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\bin\Debug\Data_Access_Layer.pdb
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\GUI_Layer.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.BanHang.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.DangNhap.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.DoanhThu.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.HangHoa.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.HoatDongBanHang.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.KhachHang.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhaCungCap.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhanVien.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.NhapHang.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.ThongTin.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\UI.Trangchinh.resources
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\GUI_Layer.csproj.GenerateResource.Cache
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\RdlCompile.cache
+C:\Users\PhamVanDuong\Desktop\HOAN THANH\CHUONG TRINH PHAN MEM\UI\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,21 @@
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Model\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Model\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Model\obj\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Model\obj\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Model\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Model\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Model\obj\Debug\Model.dll
+C:\Users\PhamVanDuong\Documents\Visual Studio 2013\Projects\QUAN_LY_CUA_HANG_BAN_LE\Backup\Model\obj\Debug\Model.pdb
+C:\GHE\Backup\Model\bin\Debug\Model.dll
+C:\GHE\Backup\Model\bin\Debug\Model.pdb
+C:\GHE\Backup\Model\obj\Debug\Model.dll
+C:\GHE\Backup\Model\obj\Debug\Model.pdb
+C:\GHE\BACKUP 3\Backup\Model\bin\Debug\Model.dll
+C:\GHE\BACKUP 3\Backup\Model\bin\Debug\Model.pdb
+C:\GHE\BACKUP 3\Backup\Model\obj\Debug\Model.dll
+C:\GHE\BACKUP 3\Backup\Model\obj\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Model\bin\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Model\bin\Debug\Model.pdb
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Model\obj\Debug\Model.dll
+C:\Users\PhamVanDuong\Desktop\CODE LAI\CHUONG TRINH PHAN MEM\Model\obj\Debug\Model.pdb
